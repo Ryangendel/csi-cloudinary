@@ -1,0 +1,6 @@
+name = "aged-math-002a"
+compatibility_date = "2026-05-04"
+ 
+[assets]
+directory = "./public"
+ 
